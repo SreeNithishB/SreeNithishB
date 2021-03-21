@@ -18,7 +18,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreenithishb&show_icons=true&locale=en&layout=compact" alt="sreenithishb" /></p>
 <br>
-<img align="left" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/Anime_snaps/naofumi.png" width="40%">
+
 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=sreenithishb&show_icons=true&locale=en" alt="sreenithishb" /></p>
 
