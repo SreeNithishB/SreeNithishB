@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/happy-nobg.gif" width="30px"> I'm Sree Nithish B</h1>
 
 <h3 align="center">Your friendly Neighbourhood Developer.</h3>
-<img style="float: right;" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/super-kid-nobg.gif" width="500px">
+<img style="float: right;" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/super-kid.gif" width="500px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenithishb&label=Profile%20views&color=0e75b6&style=flat" alt="sreenithishb" /> </p>
 
