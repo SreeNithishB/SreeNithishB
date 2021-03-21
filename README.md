@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sree Nithish B</h1>
-<img src="https://github.com/SreeNithishB/SreeNithishB/blob/main/Assets/Mario_Hello_Big.gif" width="30px">
-<h3 align="center">A friendly Neighbourhood Developer.</h3>
+<h1 align="center">Hi <img src="https://github.com/SreeNithishB/SreeNithishB/blob/main/Assets/happy.gif" width="30px">, I'm Sree Nithish B</h1>
+<h3 align="center">Your friendly Neighbourhood Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenithishb&label=Profile%20views&color=0e75b6&style=flat" alt="sreenithishb" /> </p>
 
