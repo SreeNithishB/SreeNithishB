@@ -1,7 +1,7 @@
-<h1 align="center">Hi <img src="https://github.com/SreeNithishB/SreeNithishB/blob/main/Assets/happy.gif" width="30px"> I'm Sree Nithish B</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/happy-nobg.gif" width="30px"> I'm Sree Nithish B</h1>
 
 <h3 align="center">Your friendly Neighbourhood Developer.</h3>
-<img style="padding-left:200px;" align="center" src="https://github.com/SreeNithishB/SreeNithishB/blob/main/Assets/super-kid.gif" width="500px">
+<img style="float: right;" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/super-kid-nobg.gif" width="500px">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenithishb&label=Profile%20views&color=0e75b6&style=flat" alt="sreenithishb" /> </p>
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sreenithishb" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sreenithishb" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sree-nithish-b-954a75192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sree_nithish_b" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
