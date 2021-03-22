@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://sreenithishb.pythonanywhere.com/](https://sreenithishb.pythonanywhere.com/)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sreenithishb&show_icons=true&locale=en&layout=compact" alt="sreenithishb" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SreeNithishB&show_icons=true&locale=en&layout=compact" alt="sreenithishb" /></p>
 
 
 <h3 align="left">WORKED ON:</h3>
