@@ -19,7 +19,7 @@
 
 <img align="left" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/Anime_snaps/naofumi.png" width="30%">
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=sreenithishb&" alt="sreenithishb" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeNithishB&" alt="sreenithishb" /></p>
 
 
 
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
