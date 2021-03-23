@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenithishb&label=Profile%20views&color=0e75b6&style=flat" alt="sreenithishb" /> <a href="https://github.com/SreeNithishB"><img src="https://img.shields.io/github/followers/SreeNithishB?label=Follow&style=social"></a></p>
 
 
-- 👨‍💻 All of my projects are available at [https://sreenithishb.pythonanywhere.com/](https://sreenithishb.pythonanywhere.com/)
+- All of my projects are available [here](https://sreenithishb.pythonanywhere.com/)
+- Connect with me on [Linkedin](https://www.linkedin.com/in/sree-nithish-b-954a75192/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=SreeNithishB&show_icons=true&locale=en&layout=compact" alt="sreenithishb" /></p>
@@ -32,6 +33,8 @@
 **SreeNithishB/SreeNithishB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
+- 👨‍💻 All of my projects are available at [https://sreenithishb.pythonanywhere.com/](https://sreenithishb.pythonanywhere.com/)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
