@@ -20,7 +20,7 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=SreeNithishB&" alt="sreenithishb" /></p>
 
-<img align="left" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/Anime_snaps/naofumi.png" width="30%">
+<img align="center" src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/Anime_snaps/naofumi.png" width="30%">
 
 
 
