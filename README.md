@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sreenithishb&label=Profile%20views&color=0e75b6&style=flat" alt="sreenithishb" /> <a href="https://github.com/SreeNithishB"><img src="https://img.shields.io/github/followers/SreeNithishB?label=Follow&style=social"></a></p>
 
 
-- All of my projects are available [here](https://sreenithishb.herokuapp.com/)
+- All of my projects are available [here](https://sreenithishb.herokuapp.com/portfolio/)
 - Connect with me on [Linkedin](https://www.linkedin.com/in/sree-nithish-b-954a75192/)
 
 
