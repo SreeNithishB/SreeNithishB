@@ -1,3 +1,5 @@
+<!--
+
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/SreeNithishB/SreeNithishB/main/Assets/happy-nobg.gif" width="30px"> I'm Sree Nithish B</h1>
 
 <h3 align="center">Your friendly Neighbourhood Developer.</h3>
@@ -27,7 +29,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-black-magic.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 
-
+-->
 
 <!--
 **SreeNithishB/SreeNithishB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
